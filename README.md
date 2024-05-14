@@ -24,5 +24,7 @@ python3 get_public_address.py
 python3 send_xrp.py
 ```
 
-## Learn more on official XRP Ledger page
+## Learn more on official XRP Ledger web-page
+Learn how to prepare the transaction, sign, submit to the network, validate and check the current status on the official XRP Ledger resource.
+
 [Interactive guide on sending XRP](https://xrpl.org/docs/tutorials/how-tos/send-xrp/#interactive-submit)
